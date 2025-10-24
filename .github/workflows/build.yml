@@ -1,0 +1,8 @@
+name: Test App
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  
